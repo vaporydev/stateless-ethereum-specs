@@ -1,4 +1,4 @@
-# stateless-ethereum-specs
+# stateless-vapory-specs
 Specifications for the Stateless Ethereum research effort
 
 ## Problem Statement and Goals
